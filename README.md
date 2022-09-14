@@ -1,5 +1,5 @@
 # Low level system design
-Low level implementation of few examples asked for LLD/machine coding interviews.
+Low level implementation of few examples in C++ asked for LLD/machine coding interviews.
 
 ## Requirements
 * C++ 14
